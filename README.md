@@ -1,5 +1,7 @@
 # The Shadow of the Dendrite: Quantum Mechanics as Degenerate Projection of Oscillatory Phase-Space Neural Computation
 
+EDIT: Added shadow paper: https://github.com/anttiluode/DeerskinQuantumImplicationsPaper/blob/main/field_derivation.md 
+
 **Antti Luode**
 PerceptionLab | Independent Research, Finland
 
